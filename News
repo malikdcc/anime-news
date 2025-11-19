@@ -1,5 +1,13 @@
 [
   {
+    "id": 2,
+    "title": "ZWEITE NEWS: NEUER TITEL HIER",
+    "summary": "Kurze Beschreibung für die neue News.",
+    "content": "Der komplette Text für die neue News kommt hier rein. Du kannst hier so viel schreiben, wie du möchtest.",
+    "image": "https://dein-neuer-bild-link.com/bild.png",
+    "date": "2025-11-20"
+  },
+  {
     "id": 1,
     "title": "News Title",
     "summary": "Short description (100-200 chars)",
